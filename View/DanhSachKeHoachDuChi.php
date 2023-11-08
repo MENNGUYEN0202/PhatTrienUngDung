@@ -118,7 +118,9 @@
 </table>
             </div>
         <div class="row d-flex justify-content-end">
-        <button type="button" class="btn btn-outline-info">Lưu</button>
+        <td>
+        <button type="button" data-toggle="modal" class="rs-btn" data-target="#exampleModalCenter">Thêm Kế Hoạch Dự Chi </button>
+        </td>
         </div>
         </section>
 
